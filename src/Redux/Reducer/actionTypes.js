@@ -1,0 +1,1 @@
+export const GET_SPORTS_DATA = 'GET_SPORTS_DATA';
